@@ -1,0 +1,23 @@
+# Keil/uVision build outputs
+**/Objects/
+**/Listings/
+**/*.o
+**/*.d
+**/*.crf
+**/*.axf
+**/*.hex
+**/*.map
+**/*.lnp
+**/*.sct
+**/*.dep
+**/*.htm
+**/*.build_log.htm
+**/*.uvguix.*
+**/MDK-ARM/.Download/
+**/MDK-ARM/.Web/
+**/MDK-ARM/.Local/
+**/MDK-ARM/ARM/
+**/MDK-ARM/Keil/
+**/MDK-ARM/Hitex/
+**/MDK-ARM/pack.idx
+**/*.pack
